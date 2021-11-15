@@ -1,0 +1,10 @@
+E:\C#\Font-Paint-RunTime\Font-Paint-RunTime\bin\Debug\Font-Paint-RunTime.exe.config
+E:\C#\Font-Paint-RunTime\Font-Paint-RunTime\bin\Debug\Font-Paint-RunTime.exe
+E:\C#\Font-Paint-RunTime\Font-Paint-RunTime\bin\Debug\Font-Paint-RunTime.pdb
+E:\C#\Font-Paint-RunTime\Font-Paint-RunTime\obj\Debug\Font-Paint-RunTime.csproj.AssemblyReference.cache
+E:\C#\Font-Paint-RunTime\Font-Paint-RunTime\obj\Debug\Font_Paint_RunTime.Form1.resources
+E:\C#\Font-Paint-RunTime\Font-Paint-RunTime\obj\Debug\Font_Paint_RunTime.Properties.Resources.resources
+E:\C#\Font-Paint-RunTime\Font-Paint-RunTime\obj\Debug\Font-Paint-RunTime.csproj.GenerateResource.cache
+E:\C#\Font-Paint-RunTime\Font-Paint-RunTime\obj\Debug\Font-Paint-RunTime.csproj.CoreCompileInputs.cache
+E:\C#\Font-Paint-RunTime\Font-Paint-RunTime\obj\Debug\Font-Paint-RunTime.exe
+E:\C#\Font-Paint-RunTime\Font-Paint-RunTime\obj\Debug\Font-Paint-RunTime.pdb
